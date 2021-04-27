@@ -1,3 +1,8 @@
+# Publishing content to my gemini capsule
+
+I started this by connecting to the server using Emacs and tramp and just editing the files remotely. That's never been my favorite method, so I grabbed everything, added it to Git and created Makeful to push changes to the server.
+
+```
 LOCAL_DIR=~/Sync/pub/gemlog.baty.net/content
 SERVER_HOST=server01.baty.net
 SERVER_DIR=/home/jbaty/apps/gemini.baty.net
@@ -23,3 +28,4 @@ push:
 
 
 .FORCE:
+```
