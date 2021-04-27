@@ -19,7 +19,7 @@ commit:
 
 push:
 	@echo "\033[0;32mPushing repo\033[0m"
-	git push origin master
+	git push origin main
 
 
 .FORCE:
