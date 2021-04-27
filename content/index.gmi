@@ -23,6 +23,7 @@ There's nothing much here yet, so you're probably better off visiting my blog.
 
 ## Recent Posts
 
+=> gemini://gemlog.baty.net/archives/2021-04-27-publishing-gemini.gmi 2021-04-27 Publishing to my Gemini Capsule
 => gemini://gemlog.baty.net/archives/2021-04-23_hey-for-domains.gmi 2021-04-23 HEY for Domains? Nah.
 => gemini://gemlog.baty.net/archives/2021-04-21_how-to-gemini.gmi 2021-04-21 How to Gemini?
 
