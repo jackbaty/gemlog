@@ -1,0 +1,21 @@
+# Daily Notes by Jack Baty
+
+## 2021-04-27 Daily Notes
+
+Moving the files for this capsule local and added a Makefile for sync. This, instead of editing remotely using Emacs/Tramp.
+
+## 2021-04-24 Daily Notes
+
+I've been debating between going all in with HEY for email or sticking with Fastmail. The answer may surprise you.
+
+=> https://copingmechanism.com/2021/hey-or-fastmail-the-answer/  HEY or Fastmail? The Answer.
+
+## 2021-04-22 Daily Notes
+
+I have to say, getting through the initial curve of setting up Home Assistant has been a wildly frustrating experience. There is documentation, but it's a little like that of AWS in that it says everything but tells me nothing.
+
+=> https://homeassistant.io Home Assistant
+
+## 2021-04-21 Daily Notes
+
+Today involved creating a Daily Notes file. You're soaking in it.

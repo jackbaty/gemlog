@@ -1,0 +1,31 @@
+
+```
+     ██╗ █████╗  ██████╗██╗  ██╗███████╗     ██████╗ ███████╗███╗   ███╗██╗      ██████╗  ██████╗
+     ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝    ██╔════╝ ██╔════╝████╗ ████║██║     ██╔═══██╗██╔════╝
+     ██║███████║██║     █████╔╝ ███████╗    ██║  ███╗█████╗  ██╔████╔██║██║     ██║   ██║██║  ███╗
+██   ██║██╔══██║██║     ██╔═██╗ ╚════██║    ██║   ██║██╔══╝  ██║╚██╔╝██║██║     ██║   ██║██║   ██║
+╚█████╔╝██║  ██║╚██████╗██║  ██╗███████║    ╚██████╔╝███████╗██║ ╚═╝ ██║███████╗╚██████╔╝╚██████╔╝
+ ╚════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚══════╝╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚═════╝
+```
+# Jack Baty's Gemlog
+
+Well hello! This is a gemlog. I'm using it as a way to tinker with Gemini.
+
+=> https://gemini.circumlunar.space Project Gemini
+
+There's nothing much here yet, so you're probably better off visiting my blog.
+
+=> https://copingmechanism.com My blog
+
+=> about.gmi About this capsule
+=> mailto:jack@baty.net Email Me
+
+
+## Recent Posts
+
+=> gemini://gemlog.baty.net/archives/2021-04-23_hey-for-domains.gmi 2021-04-23 HEY for Domains? Nah.
+=> gemini://gemlog.baty.net/archives/2021-04-21_how-to-gemini.gmi 2021-04-21 How to Gemini?
+
+----
+=> archives/ All posts
+=> gemini://gemlog.baty.net/daily.gmi Daily Notes (like a microblog)

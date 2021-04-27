@@ -1,0 +1,13 @@
+# About Jack and this capsule
+
+This is an experiment in publishing in a different sphere.
+
+
+Thanks to Christian Cleberg for the simple instructions for hosting a Gemini server.
+
+=> https://blog.cleberg.io/post/hosting-a-gemini-server.html Hosting a Gemini Server
+
+For more about me:
+
+=> https://copingmechanism.com/about My blog's about page
+=> / Home

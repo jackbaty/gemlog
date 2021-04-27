@@ -1,0 +1,10 @@
+# Daily Notes - Tuesday, April 20, 2021
+I'm having an especially hard time deciding things. I've been all-in Emacs again for a week and it's so great. But (there's always a but), it feels separate from everything else. I'm either on my Mac or I'm in Emacs. They are to isolated from each other. Of course this leads to wanting to do even more in Emacs, so I'm not jumping in and out of it. That way lies madness. So I've been playing with CraftApp again :)
+
+Another waffle: privacy vs convenience. I'm digging into HomeAutomation with Home Assistant and friends. I was determined to build things without a need for any cloud services, or any reliance upon the internet at all. But I also want voice control, so now I'm thinking of just using Alexa and putting a bunch of Echos around the house again. JFC.
+
+And, I just ran into the 1000-block limit so I bought a 1-year Pro subscription to CraftEditor
+
+Farting around with ArchiveBox
+
+Also farting around with Project Gemini. See gemini://gemlog.baty.net

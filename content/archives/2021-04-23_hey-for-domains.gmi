@@ -1,0 +1,35 @@
+# HEY for Domains? Nah.
+
+
+Other than having a couple of nits to pick, I really like using HEY! for my email.
+
+=> https://hey.com HEY Email
+
+After considering the pros and cons and waffling between dropping the service and going all-in, I’ve been leaning toward all-in. HEY offers an opinionated, clever, and pleasant set of features that’s not found elsewhere. A big missing piece for me has been custom domain support.
+
+I’m fine paying the higher price for HEY because I love the service. For that price, though, custom domains should be table stakes. I was looking forward to consolidating things and canceling my long-standing Fastmail subscription once custom domains were supported. I would even pay a buck or two more for my own domain, even though I feel like the current price should include it.
+
+I’ve known for months that custom domain support was coming, so I was waiting for that before committing.
+
+I’m glad I waited, because as it stands I won’t be sticking with HEY.
+
+Basically they’ve just rebranded HEY for Work as HEY for Domains. I don’t want HEY for Work. It’s only me here. I want HEY for You (aka Me) with my own domain.
+
+So, instead of my custom domain riding atop the existing @hey.com address, I have to create and pay for an entirely new account to use custom domains. This means if I want to keep @hey.com I’ll be paying for both accounts. Nope.
+
+So what’s the big deal about giving up the @hey.com address? Honestly, it’s not that big a deal. I’ve only sparingly used that address. I’ve been forwarding my baty.net email from Fastmail and using SMTP forwarding for replies. This works OK, but means I still need to keep (and pay for) my Fastmail account. I’d rather not. But, what’s worse is this…
+
+
+You see, I also lose the option of using HEY World. To be fair, I’ve only dabbled with HEY World but it’s intriguing and could find a place at some point. Not if I move to HEY for Domains, it won’t.
+
+I’ll keep saying it… I love HEY for my email. It’s an opinionated service, which comes with risks, but up to now the folks behind it have done a great job selecting and implementing features. I fear that with the way custom domains via HEY for Domains is implemented, I may not be able to stick around and see where it leads. This is a shame. I mean, the upcoming Recycling feature looks terrific and useful. I may never know.
+
+This post is mostly a knee-jerk reaction to the HEY for Domains implementation. To be fair, it’s early and the Basecamp folks may decide to tweak things favorably if they receive a lot of feedback like mine. I have until June before my HEY for You subscription is up for renewal. I hope it works out.
+
+UPDATE (2021-04-23 16:50): I didn’t know about the discount offered here: https://hey.com/custom-domains/. This offer makes using HEY for Domains much more palatable.
+
+=> https://hey.com/custom-domains/ Custom Domains discount
+=> https://hey.com/world/ HEY World
+=> https://world.hey.com/dhh/hey-will-soon-let-you-recycle-your-emails-9ea2890d Recycle Emails (dhh)
+
+=> https://copingmechanism.com/2021/hey-for-domains-nah/ My original post
