@@ -13,12 +13,13 @@ Well hello! This is a gemlog. I'm using it as a way to tinker with Gemini.
 
 => https://gemini.circumlunar.space Project Gemini
 
-There's nothing much here yet, so you're probably better off visiting my blog.
+There's nothing much here, so you're probably better off visiting my blog.
 
 => https://copingmechanism.com My blog
 
 => about.gmi About this capsule
 => mailto:jack@baty.net Email Me
+=> gemini://gemlog.baty.net/img/jack.jpg  Your host
 
 
 ## Recent Posts
