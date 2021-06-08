@@ -4,6 +4,8 @@
 
 Moved the Git repo for this capsule to my Gitea instance. Slowly becoming more self-hosted.
 
+Upgraded Lagrange to v1.5.1
+
 ## 2021-05-21 Daily Notes
 
 Why am I still doing this? I don't know, honestly. Sometimes it's the urge to type some text and have it end up in some obscure place, still looking like text.
